@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tokopedia-test/static/css/main.43cd0eee.chunk.css",
+    "main.js": "/tokopedia-test/static/js/main.0efaf113.chunk.js",
+    "main.js.map": "/tokopedia-test/static/js/main.0efaf113.chunk.js.map",
+    "runtime-main.js": "/tokopedia-test/static/js/runtime-main.4079fd06.js",
+    "runtime-main.js.map": "/tokopedia-test/static/js/runtime-main.4079fd06.js.map",
+    "static/css/2.042623cf.chunk.css": "/tokopedia-test/static/css/2.042623cf.chunk.css",
+    "static/js/2.93d5fdfd.chunk.js": "/tokopedia-test/static/js/2.93d5fdfd.chunk.js",
+    "static/js/2.93d5fdfd.chunk.js.map": "/tokopedia-test/static/js/2.93d5fdfd.chunk.js.map",
+    "static/js/3.a39ce282.chunk.js": "/tokopedia-test/static/js/3.a39ce282.chunk.js",
+    "static/js/3.a39ce282.chunk.js.map": "/tokopedia-test/static/js/3.a39ce282.chunk.js.map",
+    "index.html": "/tokopedia-test/index.html",
+    "static/css/2.042623cf.chunk.css.map": "/tokopedia-test/static/css/2.042623cf.chunk.css.map",
+    "static/css/main.43cd0eee.chunk.css.map": "/tokopedia-test/static/css/main.43cd0eee.chunk.css.map",
+    "static/js/2.93d5fdfd.chunk.js.LICENSE.txt": "/tokopedia-test/static/js/2.93d5fdfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4079fd06.js",
+    "static/css/2.042623cf.chunk.css",
+    "static/js/2.93d5fdfd.chunk.js",
+    "static/css/main.43cd0eee.chunk.css",
+    "static/js/main.0efaf113.chunk.js"
+  ]
+}

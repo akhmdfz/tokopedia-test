@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,qBAAsB,CACtB,QAAS,CACT,SACF,CAEF,uCACI,qBACJ","file":"main.43cd0eee.chunk.css","sourcesContent":["* {\r\n    box-sizing: border-box;\r\n    margin: 0;\r\n    padding: 0;\r\n  }\r\n\r\nspan.MuiSkeleton-root.MuiSkeleton-rect{\r\n    height: 15em !important;\r\n}"]}
