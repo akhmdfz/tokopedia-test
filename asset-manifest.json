@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tokopedia-test/static/css/main.43cd0eee.chunk.css",
-    "main.js": "/tokopedia-test/static/js/main.f9e066a6.chunk.js",
-    "main.js.map": "/tokopedia-test/static/js/main.f9e066a6.chunk.js.map",
+    "main.js": "/tokopedia-test/static/js/main.5362d09d.chunk.js",
+    "main.js.map": "/tokopedia-test/static/js/main.5362d09d.chunk.js.map",
     "runtime-main.js": "/tokopedia-test/static/js/runtime-main.4079fd06.js",
     "runtime-main.js.map": "/tokopedia-test/static/js/runtime-main.4079fd06.js.map",
     "static/css/2.042623cf.chunk.css": "/tokopedia-test/static/css/2.042623cf.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.042623cf.chunk.css",
     "static/js/2.93d5fdfd.chunk.js",
     "static/css/main.43cd0eee.chunk.css",
-    "static/js/main.f9e066a6.chunk.js"
+    "static/js/main.5362d09d.chunk.js"
   ]
 }
